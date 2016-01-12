@@ -5,10 +5,10 @@
 Using [Ramda.js](http://ramdajs.com/0.19.0/index.html) as an excuse for FUNctional understanding, with the [Advent problem set](http://adventofcode.com/)
 
 
-### Setup 
+### Setup
 * run `npm install` first
 * each problem is traspiled from ES6 when `npm run build` is run, from `/src` to `/lib`
-* change the problem in `package.json` to which you'd like to run
+* change the problem in `package.json` to whichever problem you'd like to run
 
 
 
@@ -16,7 +16,7 @@ Using [Ramda.js](http://ramdajs.com/0.19.0/index.html) as an excuse for FUNction
 
 #### [Problem 1](https://github.com/pippinlee/ramda-advent/blob/master/src/problem1.js)
 
-#### [Problem 1, part2](https://github.com/pippinlee/ramda-advent/blob/master/src/problem1-part2.js)
+#### [Problem 1, part 2](https://github.com/pippinlee/ramda-advent/blob/master/src/problem1-part2.js)
 
 #### [Problem 2](https://github.com/pippinlee/ramda-advent/blob/master/src/problem2.js)
 
@@ -25,3 +25,11 @@ Using [Ramda.js](http://ramdajs.com/0.19.0/index.html) as an excuse for FUNction
 #### [Problem 3](https://github.com/pippinlee/ramda-advent/blob/master/src/problem3.js)
 
 ####[Problem 3, part 2](https://github.com/pippinlee/ramda-advent/blob/master/src/problem3-part2.js)
+
+#### [Problem 4](https://github.com/pippinlee/ramda-advent/blob/master/src/problem4.js)
+
+####[Problem 4, part 2](https://github.com/pippinlee/ramda-advent/blob/master/src/problem4-part2.js)
+
+#### [Problem 5](https://github.com/pippinlee/ramda-advent/blob/master/src/problem5.js)
+
+####[Problem 5, part 2](https://github.com/pippinlee/ramda-advent/blob/master/src/problem5-part2.js)

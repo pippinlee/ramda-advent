@@ -1,0 +1,1 @@
+# Learning by playing with Ramda.js
